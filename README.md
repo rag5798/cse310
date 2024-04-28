@@ -3,7 +3,7 @@
 <!--{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}-->
 
 <!--{Provide a description of your software}-->
-This project uses GO to print a GO proverb to the console.
+This project uses GO to print the GO proverb to the console.
 
 <!--{Describe your purpose for creating this software.}-->
 I made this project to better understand setting up and running GO code. I was able to learn more about how to setup a go.mod file and how to run a .go file from the terminal.
