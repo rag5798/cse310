@@ -14,7 +14,7 @@ I made this project to better understand setting up and running GO code. I was a
 # Development Environment
 
 <!--{Describe the tools that you used to develop the software}-->
-I used Visual Studio Code and Github to store my code.
+I used Visual Studio Code as my IDE and Github to store my code.
 
 <!--{Describe the programming language that you used}-->
 I used GO for this project. GO is primarily used in building servers and web development using APIs.
